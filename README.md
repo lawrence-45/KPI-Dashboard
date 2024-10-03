@@ -18,11 +18,11 @@ On this project, I worked on a bunch of datasets, to create a visually appealing
 * Data Visualization
 * Data Analysis
 ## Datasets
-* Campaign_export.csv: List of campaign metrics by day from the export from the Alibaba main interface for paid performance ads.
+* Campaign_export.csv: List of daily campaign metrics from the export from the Alibaba main interface for paid performance ads.
 * Transactions.csv: List of sales figures and customer info by transaction_ID.
 * Website_tracking_checkout.csv: Information about the campaign, source, and medium that was tracked at checkout in the company website at transaction_ID level.
 * Website_tracking_visits.csv: Information about the campaign, source, and medium that was tracked at the session level.
-* Mapping_tables.xls: Table to help in understanding the campaign_name column in the datasets and also create the required slicers/filters.
+* Mapping_tables.xls: Table to help understand the campaign_name column in the datasets and create the required slicers/filters.
 The datasets can be found in the file section of this repository.
 ## Data Cleaning/Transformation 
 The four .csv datasets were imported into Power BI via Power Query Editor, where I performed cleaning and transformation tasks utilizing Power Query and its built-in functions. Specifically, I split the campaign_name column in each dataset into separate columns, taking into account the information in the mapping_table.xls table.  
