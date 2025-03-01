@@ -36,15 +36,20 @@ To view in detail how these tables were created and Dax codes used click [here](
 ## Data Analysis
 To get the required KPIs, I had to create measures, this I was able to do using the DAX functions.  
 To view the codes used to create these measures, and KPI click [here](Data_Analysis_Guide.pdf).
-## Data Visualization
+## Data Visualization  
+https://github.com/user-attachments/assets/7e4588d6-a6f4-49c0-95f9-1300b7d8244e  
+
 After cleaning, modeling, and creating the necessary measures, I created a dashboard to view all the information extracted from the data and analysis.  
 This dashboard consists of KPIs, Ads Performance, Website Performance, Marketing Performance, Sales Performance, and Customer Information.  
 On this dashboard, we can filter the data to suit the information we want to view.  
 To view the interactive dashboard, Click [here](https://app.powerbi.com/view?r=eyJrIjoiY2U3YWM1ZjUtODhhMC00YjFhLTgwY2YtZjA0OTg0YTI4NWZhIiwidCI6IjQzMDIwM2U1LTc2NTItNDAwMi05NDIzLTM2YjYyNzdmNDdkNiIsImMiOjEwfQ%3D%3D).
 
  _Hope you found this insightful._  
-  _Thanks for reading😄._
+  _Thanks for reading😄._  
 
+
+
+  
 
 
 
