@@ -40,7 +40,7 @@ To view the codes used to create these measures, and KPI click [here](Data_Analy
 After cleaning, modeling, and creating the necessary measures, I created a dashboard to view all the information extracted from the data and analysis.  
 This dashboard consists of KPIs, Ads Performance, Website Performance, Marketing Performance, Sales Performance, and Customer Information.  
 On this dashboard, we can filter the data to suit the information we want to view.  
-To view the interactive dashboard, Click [here](https://app.powerbi.com/view?r=eyJrIjoiY2U3YWM1ZjUtODhhMC00YjFhLTgwY2YtZjA0OTg0YTI4NWZhIiwidCI6IjQzMDIwM2U1LTc2NTItNDAwMi05NDIzLTM2YjYyNzdmNDdkNiIsImMiOjEwfQ%3D%3D).
+To view the interactive dashboard, Click [here](<iframe title="Marketing_BI_dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2U3YWM1ZjUtODhhMC00YjFhLTgwY2YtZjA0OTg0YTI4NWZhIiwidCI6IjQzMDIwM2U1LTc2NTItNDAwMi05NDIzLTM2YjYyNzdmNDdkNiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>).
 
  _Hope you found this insightful._  
   _Thanks for reading😄._
