@@ -1,4 +1,4 @@
-# XYZ KPI Tracking Dashboard
+# KPI Tracking Dashboard
 ![](kpi.jpg)
 ## Overview 
 On this project, I worked on a bunch of datasets, to create a visually appealing dashboard where the company could track the performance/KPIs of one of its Online Marketing channels called Alibaba over the period they ran their paid performance campaign (20th March 2011 – 5th April 2011), and also be able to perform desired cross analysis/ filters depending on a combination of several features of the campaign (i.e. target gender, target country, target device, etc.)  
